@@ -1,0 +1,6 @@
+{
+  "name": "پرتال یکپارچه سامانه‌های واته",
+  "description": "مرکز دسترسی یکپارچه و پیشرفته به وب‌سایت‌ها و سامانه‌های نرم‌افزاری گروه صنعتی واته ویژه مدیرعامل و مدیران ارشد سازمان",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
